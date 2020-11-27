@@ -28,6 +28,11 @@
 /*=======================
 	Header CSS
 =========================*/ 
+
+html,body{
+    overflow-x: hidden;
+}
+
 #header {
 	top: 0;
 	width: 100%;
